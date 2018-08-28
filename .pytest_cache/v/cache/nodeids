@@ -1,3 +1,12 @@
 [
-  "test_vm.py::test_insert_coin_and_check"
+  "test_vm.py::test_initial_change_should_be_zero",
+  "test_vm.py::test_insert_coin_and_check",
+  "test_vm.py::test_accumulation_of_change",
+  "test_vm.py::test_full",
+  "test_vm.py::test_unknown_drink",
+  "test_vm.py::test_short",
+  "test_vm.py::test_invalid_coin",
+  "test_vm.py::test_I_dont_know",
+  "test_vm.py::test_milk_and_milkcoffee",
+  "test_vm.py::test_return"
 ]
