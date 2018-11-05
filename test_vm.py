@@ -57,7 +57,7 @@ def test_return():
     m.run("동전 10")
     m.run("동전 10")
     assert "500,100,50,10,10" == m.run("반환")
-    assert "잔액이 없습니다." == m.run("반환")
+    assert "잔액이 없습니다" == m.run("반환")
 
 # def test_valid_coins():
 #     m = VendingMachine()
